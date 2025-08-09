@@ -1,0 +1,45 @@
+[09-Aug-2025 11:24:20 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:24:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:24:20 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:24:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:09 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:09 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:33 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:33 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:41 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:41 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:26:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:27:20 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:27:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:27:21 Asia/Dhaka] PHP Warning:  Undefined variable $pdo in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
+[09-Aug-2025 11:27:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php:27
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\ROUND64\react\starter-kit\API\admin\users.php on line 27
